@@ -1,0 +1,1 @@
+<div class="grid-item col-md-3"><?php get_template_part( 'template-parts/masonry/content-format', get_post_format() );?></div>

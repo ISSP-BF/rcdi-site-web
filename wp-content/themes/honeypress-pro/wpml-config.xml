@@ -1,0 +1,57 @@
+<wpml-config>
+  <admin-texts>
+    <key name="current_theme"/>
+    <key name="theme_mods_honeypress-pro">
+      <key name="0"/>
+      <key name="nav_menu_locations"/>
+      <key name="honeypress_blog_content_length"/>
+      <key name="honeypress_blog_button_title"/>
+      <key name="honeypress_related_post_title"/>
+      <key name="honeypress_contact_content"/>
+      <key name="footer_copyright"/>
+      <key name="ribon_title"/>
+      <key name="honeypress_ribon_content"/>
+      <key name="honeypress_scroll_icon_class"/>
+      <key name="honeypress_scroll_border_radius"/>
+      <key name="honeypress_slider_content"/>
+      <key name="honeypress_service_content"/>
+      <key name="honeypress_funfact_content"/>
+      <key name="honeypress_testimonial_content"/>
+      <key name="honeypress_team_content"/>
+      <key name="honeypress_clients_content"/>
+      <key name="home_service_section_title"/>
+      <key name="home_service_section_discription"/>
+      <key name="home_fun_section_title"/>
+      <key name="home_portfolio_section_title"/>
+      <key name="home_portfolio_section_subtitle"/>
+      <key name="home_testimonial_section_title"/>
+      <key name="home_testimonial_section_discription"/>
+      <key name="home_news_section_title"/>
+      <key name="home_news_section_discription"/>
+      <key name="home_news_button_title"/>
+      <key name="home_blog_more_btn"/>
+      <key name="home_blog_more_btn_link"/>
+      <key name="home_call_out_title"/>
+      <key name="home_call_out_desc"/>
+      <key name="home_call_out_btn_text"/>
+      <key name="home_call_out_btn_link"/>
+      <key name="home_team_section_title"/>
+      <key name="home_team_section_discription"/>
+      <key name="home_client_section_title"/>
+      <key name="home_client_section_discription"/>
+      <key name="home_shop_section_title"/>
+      <key name="home_shop_section_discription"/>
+      <key name="porfolio_page_title"/>
+      <key name="porfolio_page_subtitle"/>
+      <key name="portfolio_numbers_options"/>
+      <key name="porfolio_category_page_title"/>
+      <key name="porfolio_category_page_desc"/>
+      <key name="contact_page_title"/>
+      <key name="contact_page_subtitle"/>
+      <key name="contact_page_map_heading"/>
+      <key name="contact_page_form_heading"/>
+      <key name="contact_google_map_shortcode"/>
+      <key name="contact_form_shortcode"/>
+    </key>
+  </admin-texts>
+</wpml-config>

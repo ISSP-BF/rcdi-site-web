@@ -1,0 +1,142 @@
+#honeypress-feature-section-metabox .postbox {
+	border: 1px solid #e5e5e5;
+	margin-bottom: 20px;
+}
+
+#honeypress-feature-section-metabox .honeypress-title {
+	font-size: 14px;
+	padding: 8px 12px;
+	margin: 0;
+	line-height: 1.4;
+}
+#honeypress-feature-section-metabox .honeypress-movable {
+	cursor: move;
+}
+
+.honeypress-image-item.postbox h3,
+.honeypress-map-item.postbox h3 {
+	cursor: default;
+}
+
+.honeypress-slider-item-minimal {
+	display: inline-block;
+    width: 150px;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 1px solid #F5F5F5;
+	margin: 5px;
+	cursor: move;
+}
+
+
+.honeypress-title {
+    background: none repeat scroll 0 0 #F5F5F5;
+}
+.honeypress-feature-slider-item-delete-button,
+.honeypress-slider-item-delete-button,
+.honeypress-image-item-delete-button,
+.honeypress-map-item-delete-button,
+.honeypress-open-slider-modal,
+.honeypress-open-video-modal,
+.honeypress-open-image-modal,
+.honeypress-open-map-modal,
+.honeypress-button-spacer {
+    float: right;
+    position: relative;
+    right: 10px;
+    top: 3px;
+	z-index: 3;
+}
+
+.honeypress-button-spacer {
+    width: 10px;
+}
+
+.honeypress-setting {
+    padding-bottom: 10px;
+}
+.honeypress-setting label {
+    display: inline-block;
+    width: 43%;
+}
+.honeypress-setting input[type="text"],
+.honeypress-setting select,
+.honeypress-setting .wp-picker-container {
+    display: inline-block;
+    margin: 0;
+    width: 55%;
+}
+.honeypress-thumb {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.honeypress-thumb,
+.honeypress-upload-replace-image,
+.honeypress-thumb-container {
+    height: 120px;
+    width: 120px;
+}
+.honeypress-slider-settings,
+.honeypress-image-settings {
+	height: 120px;
+}
+
+.honeypress-upload-replace-image {
+	background: url("../images/add.png") no-repeat scroll center center #F5F5F5;
+    color: #F5F5F5;
+	cursor: pointer;
+	margin-right: 2px;
+	float: left;
+	border: solid 1px #DFDFDF;
+}
+.honeypress-thumb-container {
+	background: url("../images/spinner.gif") no-repeat scroll center center #F5F5F5;
+	margin-right: 2px;
+	float: left;
+	border: solid 1px #DFDFDF;
+}
+.honeypress-upload-slider-button,
+.honeypress-upload-feature-slider-button,
+.honeypress-upload-image-button,
+.honeypress-upload-multi-map-point {
+	float: left;
+	z-index: 2;
+}
+.honeypress-action-spinner,
+.honeypress-modal-spinner {
+	background: url("../images/spinner.gif") no-repeat scroll 0 0 / 20px 20px rgba(0, 0, 0, 0);
+	vertical-align: middle;
+    display: none;
+    float: left;
+    height: 20px;
+    margin: 2px 5px 0;
+    opacity: 0.7;
+    width: 20px;
+}
+
+.honeypress-modal-spinner {
+	float: right;
+	margin: 7px 5px 0;
+}
+
+.honeypress-inner-field {
+	padding-left: 20px;
+}
+.honeypress-inner-field label {
+	margin-right: 10px;
+}
+
+.honeypress-setting-label {
+	font-weight: bold;
+	font-size: 14px;
+    border-bottom: 1px solid #0074a2;
+    margin-bottom: 20px;
+    padding: 10px 0;
+}
+
+@media screen and (max-width: 870px) {
+	.honeypress-slide-setting li,
+	.honeypress-slide-setting {
+		width: 100%;
+	}
+}

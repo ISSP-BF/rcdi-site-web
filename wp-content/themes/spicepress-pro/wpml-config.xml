@@ -1,0 +1,42 @@
+<wpml-config>
+	<admin-texts>
+		<key name='theme_mods_spicepress-pro'>
+			<key name='home_service_section_title' />
+			<key name='home_service_section_discription' />
+			<key name='home_portfolio_section_title' />
+			<key name='home_portfolio_section_discription' />
+			<key name='home_testimonial_section_title' />
+			<key name='home_testimonial_section_discription' />
+			<key name='home_news_section_title' />
+			<key name='home_news_section_discription' />
+			<key name='home_gallery_section_title' />
+			<key name='home_gallery_section_discription' />
+			<key name='home_team_section_title' />
+			<key name='home_team_section_discription' />
+			<key name='home_shop_section_title' />
+			<key name='home_shop_section_discription' />
+			<key name='home_client_section_title' />
+			<key name='home_client_section_discription' />
+			<key name='home_call_out_title' />
+			<key name='home_call_out_btn_text' />
+			<key name='home_call_out_btn_link' />
+			<key name='archive_prefix' />
+			<key name='category_prefix' />
+			<key name='author_prefix' />
+			<key name='tag_prefix' />
+			<key name='search_prefix' />
+			<key name='404_prefix' />
+			<key name='shop_prefix' />
+			<key name='contact_form_title' />
+			<key name='google_map_title' />
+			<key name='portfolio_tmp_title' />
+			<key name='portfolio_tmp_desc' />
+			<key name='portfolio_cat_title' />
+			<key name='portfolio_cat_desc' />
+			<key name='gallery_tmp_title' />
+			<key name='gallery_tmp_desc' />
+			<key name='header_one_text' />
+			<key name='footer_copyright_text' />
+		</key>
+	</admin-texts>
+</wpml-config>
